@@ -2,7 +2,7 @@
 
 Testing the random date geneartor.
 
-Test cases: 
+Test Scenarios: 
            Positives and Negative scenarios
            Boundary Value analysis
            Error validation
